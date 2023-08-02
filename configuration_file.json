@@ -1,0 +1,18 @@
+{
+   "N": 5,
+   "master_path": "/home/$USER/master",
+   "worker_path": "/home/$USER/worker",
+   "log_path": "/home/$USER/master/logs.txt",
+   "split_size": 10,
+   "worker_size": 100,
+   "file_list_path": "/home/pes1ug20ec326/master/file_list.json",
+   "location_file_path": "/home/pes1ug20ec326/master/location_file.json",
+   "worker_tracker_file_path": "/home/pes1ug20ec326/master/worker_tracker.json",
+   "paths_to_workers": [
+      "/home/pes1ug20ec326/worker/worker1",
+      "/home/pes1ug20ec326/worker/worker2",
+      "/home/pes1ug20ec326/worker/worker3",
+      "/home/pes1ug20ec326/worker/worker4",
+      "/home/pes1ug20ec326/worker/worker5"
+   ]
+}
